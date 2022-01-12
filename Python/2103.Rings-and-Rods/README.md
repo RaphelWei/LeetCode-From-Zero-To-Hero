@@ -31,5 +31,5 @@ Since we have 'R', 'G',and 'B' three colors, we use 3 bits to represent each of 
 
 Then it is obvious that if a rod has all 3 rings, then its status must be 111 (which is 7).
 ## Results
-+ Time Complexity: $O(n)$
-+ Space Complexity: $O(10)$
++ Time Complexity: O(n)
++ Space Complexity: O(10)
